@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=@FAConstructor_MAJOR_VERSION@.@FAConstructor_MINOR_VERSION@
+Type=Application
+Terminal=false
+Name[en_US]=FAConstructor
+Exec=@CMAKE_INSTALL_PREFIX@/bin/FAConstructor %f
+Name=FAConstructor
+Icon=@CMAKE_INSTALL_PREFIX@/share/icons/FAConstructor/FAConstructorIcon.png
