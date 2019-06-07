@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>3dshader.frag</file>
+        <file>3dshader.vert</file>
+        <file>bubble.frag</file>
+        <file>bubble.vert</file>
+        <file>3dshaderfilled.geom</file>
+        <file>3dshaderhollow.geom</file>
+        <file>3dshaderlines.geom</file>
+    </qresource>
+</RCC>

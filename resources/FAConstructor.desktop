@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.7
+Type=Application
+Terminal=false
+Name[en_US]=FAConstructor
+Exec=/usr/local/bin/FAConstructor %f
+Name=FAConstructor
+Icon=/usr/local/share/icons/FAConstructor/FAConstructorIcon.png

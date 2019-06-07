@@ -1,0 +1,7 @@
+#define FAConstructor_VERSION_MAJOR "@FAConstructor_MAJOR_VERSION@"
+#define FAConstructor_VERSION_MINOR "@FAConstructor_MINOR_VERSION@"
+#define FAConstructor_VERSION_PATCH "@FAConstructor_PATCH_VERSION@"
+#define CMAKE_CXX_COMPILER "@CMAKE_CXX_COMPILER@"
+#define CMAKE_CXX_COMPILER_VERSION "@CMAKE_CXX_COMPILER_VERSION@"
+#define FAConstructor_WITH_OMP "@USE_OpenMP@"
+#define FAConstructor_RELEASE_TYPE "@CMAKE_BUILD_TYPE@"
